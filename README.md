@@ -1,4 +1,4 @@
 # CSS3-Running-in-Circles
 用CSS3动画实现最近出现次数很多的圆圈转圈
-![image](http://github.com/futai/CSS3-Running-in-Circles/raw/master/images/GIF.gif)
+![image](https://raw.githubusercontent.com/futai/CSS3-Running-in-Circles/master/images/GIF.gif)
 只兼容了谷歌
